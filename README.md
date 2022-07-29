@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-View app on [Weather-App](https://weather-5rn1ttfvq-geek-squared.vercel.app/)
+View app on [https://weather-5rn1ttfvq-geek-squared.vercel.app/]
 
 First, run the development server:
 
