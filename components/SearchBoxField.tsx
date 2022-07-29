@@ -11,7 +11,7 @@ import GooglePlacesAutocomplete, {
  * @returns Component for search box
  */
 const Search = () => {
-  const [location, setLocation] = useState(null);
+  const [location, setLocation] = useState<any>(null);
   const [latitude, setLat] = useState(0);
   const [longitude, setLng] = useState(0);
   // hide content until location is selected
